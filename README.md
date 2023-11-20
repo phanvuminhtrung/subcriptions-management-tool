@@ -1,3 +1,7 @@
+This is TedVu project, please visit (https://github.com/TedVu) for further info. 
+
+This repo is just for learning purpose.
+
 # Subscription Management
 
 A subscription management program which will have these following features:
